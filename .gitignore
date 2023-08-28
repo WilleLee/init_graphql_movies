@@ -1,2 +1,3 @@
 .yarn/*
 .pnp.*
+.DS_Store
